@@ -10,6 +10,7 @@ const poppins = Poppins({
 });
 
 export const metadata = {
+  metadataBase: new URL("https://www.certis.com"),
   title: "Certis - Innovative Solutions for Your Business",
   description:
     "Certis provides cutting-edge solutions and services to help your business grow efficiently.",
