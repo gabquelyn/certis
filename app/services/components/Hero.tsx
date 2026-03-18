@@ -19,12 +19,12 @@ export default function Hero() {
           initial={{ opacity: 0, y: 40 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7 }}
-          className="text-4xl md:text-6xl font-bold leading-tight tracking-tight text-gray-900"
+          className="text-2xl md:text-4xl font-bold leading-tight tracking-tight text-gray-900"
         >
           Driving{" "}
           <span className="text-primary relative">
             Credible Impact
-            <span className="absolute left-0 bottom-1 w-full h-2 bg-primary/20 -z-10 rounded" />
+            <span className="absolute left-0 -bottom-1 w-full h-2 bg-primary/20 -z-10 rounded" />
           </span>
           <br />
           Through Strategic Excellence

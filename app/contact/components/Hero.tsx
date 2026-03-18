@@ -17,7 +17,7 @@ export default function Hero() {
           initial={{ opacity: 0, y: 40 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7 }}
-          className="text-4xl md:text-6xl font-bold leading-tight tracking-tight text-gray-900"
+          className="text-2xl md:text-4xl font-bold leading-tight tracking-tight text-gray-900"
         >
           Our locations
         </motion.h1>

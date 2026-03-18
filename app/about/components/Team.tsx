@@ -46,7 +46,7 @@ export default function Team() {
           className="flex flex-col lg:flex-row justify-between items-start lg:items-end gap-6"
         >
           <div>
-            <h2 className="text-3xl md:text-5xl font-bold text-gray-900">
+            <h2 className="text-2xl md:text-4xl font-bold text-gray-900">
               Our Team
             </h2>
             <p className="text-primary font-medium mt-2">

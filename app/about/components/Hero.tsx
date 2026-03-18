@@ -16,11 +16,11 @@ export default function Hero() {
           initial={{ opacity: 0, y: 40 }}
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7 }}
-          className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight text-gray-900"
+          className="text-2xl md:text-4xl  font-bold leading-tight text-gray-900"
         >
           <span className="text-primary relative">
             Who We Are
-            <span className="absolute left-0 bottom-1 w-full h-2 bg-primary/20 -z-10 rounded" />
+            <span className="absolute left-0 -bottom-2 w-full h-2 bg-primary/20 -z-10 rounded" />
           </span>
         </motion.h1>
 

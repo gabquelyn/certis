@@ -115,7 +115,7 @@ export default function ESGSections() {
                 <div className="text-primary text-3xl">{service.icon}</div>
 
                 {/* Title */}
-                <h2 className="text-3xl md:text-5xl font-bold leading-tight text-gray-900">
+                <h2 className="text-2xl md:text-4xl font-bold leading-tight text-gray-900">
                   {service.title}
                 </h2>
 

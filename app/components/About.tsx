@@ -18,7 +18,7 @@ export default function About() {
           viewport={{ once: true }}
           className="text-center max-w-3xl mx-auto"
         >
-          <h2 className="text-3xl md:text-5xl font-bold leading-tight text-gray-900">
+          <h2 className="text-2xl md:text-4xl font-bold leading-tight text-gray-900">
             From Compliance to <br />
             <span className="text-primary">Credible Impact</span>
           </h2>

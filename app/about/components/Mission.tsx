@@ -16,13 +16,12 @@ export default function Mission() {
           transition={{ duration: 0.7 }}
           viewport={{ once: true }}
         >
-          <h2 className="text-3xl md:text-5xl font-bold text-gray-900 leading-tight">
-            We are a Nigeria-Based Firm with a <br />
+          <h2 className="text-2xl md:text-4xl font-bold text-gray-900 mb-8 leading-tight">
+            We are a Nigeria-Based Firm <br/> with a{" "}
             <span className="text-primary">Global Outlook</span>
           </h2>
 
-          <div className="h-1 w-20 bg-primary rounded-full mt-4 mb-8" />
-
+         
           <ul className="flex flex-col gap-5 text-gray-600 leading-relaxed text-lg">
             <li className="flex gap-3">
               <span className="mt-2 w-2 h-2 bg-primary rounded-full shrink-0" />

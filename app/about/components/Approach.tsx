@@ -51,7 +51,7 @@ export default function Approach() {
           transition={{ duration: 0.7 }}
           viewport={{ once: true }}
         >
-          <h2 className="text-3xl md:text-5xl font-bold text-gray-900">
+          <h2 className="text-2xl md:text-4xl font-bold text-gray-900">
             Why Our Approach Works
           </h2>
           <div className="h-1 w-16 bg-primary rounded-full mx-auto mt-3" />
