@@ -16,8 +16,8 @@ export default function Mission() {
           transition={{ duration: 0.7 }}
           viewport={{ once: true }}
         >
-          <h2 className="text-2xl md:text-4xl font-bold text-gray-900 mb-8 leading-tight">
-            We are a Nigeria-Based Firm <br/> with a{" "}
+          <h2 className="text-2xl md:text-4xl font-bold text-gray-900 mb-8 ">
+            We are a Nigeria-Based Firm with a{" "}
             <span className="text-primary">Global Outlook</span>
           </h2>
 
