@@ -11,7 +11,7 @@ export const metadata = {
     title: "Home - Certis",
     description:
       "Welcome to Certis, your partner in innovative business solutions.",
-    url: "https://www.certis.com",
+    url: "https://www.certisglobaladvisory.com",
     type: "website",
     images: [{ url: "/home-og.png", width: 1200, height: 630 }],
   },

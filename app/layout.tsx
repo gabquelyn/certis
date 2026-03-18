@@ -10,7 +10,7 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  metadataBase: new URL("https://www.certis.com"),
+  metadataBase: new URL("https://www.certisglobaladvisory.com"),
   title: "Certis - Innovative Solutions for Your Business",
   description:
     "Certis provides cutting-edge solutions and services to help your business grow efficiently.",
@@ -21,13 +21,13 @@ export const metadata = {
     "technology",
     "innovation",
   ],
-  authors: [{ name: "Certis Team", url: "https://www.certis.com" }],
+  authors: [{ name: "Certis Team", url: "https://www.certisglobaladvisory.com" }],
   robots: "index, follow",
   openGraph: {
     title: "Certis - Innovative Solutions for Your Business",
     description:
       "Certis provides cutting-edge solutions and services to help your business grow efficiently.",
-    url: "https://www.certis.com",
+    url: "https://www.certisglobaladvisory.com",
     siteName: "Certis",
     images: [
       {
