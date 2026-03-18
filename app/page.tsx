@@ -7,14 +7,6 @@ export const metadata = {
   description:
     "Welcome to Certis, your partner in innovative business solutions.",
   keywords: ["Certis", "home", "business solutions", "technology"],
-  openGraph: {
-    title: "Home - Certis",
-    description:
-      "Welcome to Certis, your partner in innovative business solutions.",
-    url: "https://www.certisglobaladvisory.com",
-    type: "website",
-    images: [{ url: "/home-og.png", width: 1200, height: 630 }],
-  },
 };
 export default function Home() {
   return (
