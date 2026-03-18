@@ -81,7 +81,7 @@ export default function Services() {
             Core Service Areas
           </h2>
           <div className="h-1 w-20 bg-primary rounded-full mx-auto mt-4" />
-          <p className="mt-5 text-gray-500 text-lg">
+          <p className="mt-5 text-gray-500">
             Delivering strategic, financial, and impact-driven sustainability
             solutions across sectors.
           </p>

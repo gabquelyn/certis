@@ -29,7 +29,7 @@ export default function Hero() {
           initial={{ opacity: 0, y: 40 }}
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.1 }}
-          className="mt-4 text-gray-600 max-w-2xl text-base md:text-lg leading-relaxed"
+          className="mt-4 text-gray-600 max-w-2xl text-base leading-relaxed"
         >
           Certis Global is a sustainability and impact advisory firm that
           helps organizations translate global sustainability goals into

@@ -23,7 +23,7 @@ export default function CTA() {
         className="relative max-w-4xl mx-auto text-center flex flex-col items-center gap-6"
       >
         {/* Heading */}
-        <h2 className="text-3xl md:text-5xl font-bold text-white leading-tight">
+        <h2 className="text-2xl md:text-4xl font-bold text-white leading-tight">
           Ready to elevate your{" "}
           <span className="bg-gradient-to-r from-white to-gray-200 bg-clip-text text-transparent">
             sustainable journey?
@@ -31,7 +31,7 @@ export default function CTA() {
         </h2>
 
         {/* Subtext */}
-        <p className="text-white/80 text-lg md:text-xl max-w-2xl leading-relaxed">
+        <p className="text-white/80 md:text-xl max-w-2xl leading-relaxed">
           Let’s work together to transform your compliance obligations into
           competitive advantages.
         </p>

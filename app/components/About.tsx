@@ -65,7 +65,7 @@ export default function About() {
               What We Do
             </h3>
 
-            <p className="text-gray-600 leading-relaxed text-lg">
+            <p className="text-gray-600 leading-relaxed">
               We help institutions integrate sustainability and climate risk
               into core decision-making—strengthening resilience, unlocking
               finance, and driving long-term impact.

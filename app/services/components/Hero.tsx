@@ -35,7 +35,7 @@ export default function Hero() {
           initial={{ opacity: 0, y: 40 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.1 }}
-          className="mt-6 text-gray-600 max-w-2xl text-base md:text-lg leading-relaxed"
+          className="mt-6 text-gray-600 max-w-2xl leading-relaxed"
         >
           We bridge the gap between regulatory compliance and meaningful
           sustainability. Our multi-disciplinary approach ensures your ESG

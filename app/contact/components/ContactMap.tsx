@@ -44,7 +44,7 @@ export default function ContactMap() {
 
       {/* Optional overlay card for address/email */}
       <div className="absolute bottom-6 left-6 bg-white/90 backdrop-blur-md rounded-xl p-6 shadow-lg max-w-xs">
-        <p className="font-semibold text-lg text-primary mb-1">
+        <p className="font-semibold text-primary mb-1">
           Our Office
         </p>
         <p>Lagos, Nigeria</p>

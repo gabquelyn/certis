@@ -25,7 +25,7 @@ export default function Header() {
         {/* Glass Navbar */}
         <div className="flex items-center py-3 justify-between backdrop-blur-md bg-white/70 border border-white/30 shadow-lg rounded-2xl mt-4 px-5">
           {/* Logo */}
-          <div className="relative h-10 w-28">
+          <div className="relative md:h-10 h-6 w-19 md:w-28">
             <Image
               src="/assets/logo2.png"
               fill

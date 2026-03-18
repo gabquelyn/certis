@@ -22,7 +22,7 @@ export default function Mission() {
           </h2>
 
          
-          <ul className="flex flex-col gap-5 text-gray-600 leading-relaxed text-lg">
+          <ul className="flex flex-col gap-5 text-gray-600 leading-relaxed">
             <li className="flex gap-3">
               <span className="mt-2 w-2 h-2 bg-primary rounded-full shrink-0" />
               Our mission is to help clients integrate sustainability and climate

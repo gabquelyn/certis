@@ -31,7 +31,7 @@ export default function HeroSection() {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.1 }}
-          className="text-2xl md:text-4xl lg:text-5xl font-bold leading-snug tracking-tight "
+          className="text-2xl md:text-4xl font-bold leading-snug tracking-tight "
         >
           Advancing Sustainability.
           <br />
@@ -44,7 +44,7 @@ export default function HeroSection() {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.9, delay: 0.2 }}
-          className="mt-4 /90 max-w-4xl text-base md:text-lg leading-relaxed"
+          className="mt-4 /90 max-w-4xl  leading-relaxed"
         >
           Certis Global Advisory Limited is a sustainability and ESG advisory
           firm supporting governments, corporates, development finance

@@ -55,7 +55,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${poppins.className} text-black text-lg antialiased`}>
+      <body className={`${poppins.className} text-black text-[.9rem] md:text-lg antialiased`}>
         <Header />
         {children}
         <Footer />

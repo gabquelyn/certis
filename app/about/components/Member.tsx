@@ -30,7 +30,7 @@ export default function Member({
 
         {/* LinkedIn Icon (hover reveal) */}
         <div className="absolute inset-0 flex items-center justify-center bg-black/40 rounded-full opacity-0 group-hover:opacity-100 transition">
-          <GrLinkedin className="text-white text-lg" />
+          <GrLinkedin className="text-white" />
         </div>
       </div>
 

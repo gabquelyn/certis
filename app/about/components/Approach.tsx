@@ -87,7 +87,7 @@ export default function Approach() {
               </div>
 
               {/* Title */}
-              <h3 className="font-semibold text-lg text-gray-900">
+              <h3 className="font-semibold  text-gray-900">
                 {c.title}
               </h3>
 

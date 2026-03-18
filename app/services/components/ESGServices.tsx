@@ -120,7 +120,7 @@ export default function ESGSections() {
                 </h2>
 
                 {/* Description */}
-                <p className="text-secondary text-lg leading-relaxed max-w-xl">
+                <p className="text-secondary leading-relaxed max-w-xl">
                   {service.description}
                 </p>
 
