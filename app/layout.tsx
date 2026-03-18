@@ -10,7 +10,7 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  metadataBase: new URL("https://www.certisglobaladvisory.com"),
+  metadataBase: new URL("https://certisglobaladvisory.com/"),
   title: "Certis - Innovative Solutions for Your Business",
   description:
     "Certis provides cutting-edge solutions and services to help your business grow efficiently.",
@@ -21,13 +21,13 @@ export const metadata = {
     "technology",
     "innovation",
   ],
-  authors: [{ name: "Certis Team", url: "https://www.certisglobaladvisory.com" }],
+  authors: [{ name: "Certis Team" }],
   robots: "index, follow",
   openGraph: {
     title: "Certis - Innovative Solutions for Your Business",
     description:
       "Certis provides cutting-edge solutions and services to help your business grow efficiently.",
-    url: "https://www.certisglobaladvisory.com",
+
     siteName: "Certis",
     images: [
       {
@@ -55,7 +55,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${poppins.className} text-black text-[.9rem] md:text-lg antialiased`}>
+      <body
+        className={`${poppins.className} text-black text-[.9rem] md:text-lg antialiased`}
+      >
         <Header />
         {children}
         <Footer />
