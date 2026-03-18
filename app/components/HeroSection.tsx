@@ -15,7 +15,7 @@ export default function HeroSection() {
         transition={{ duration: 12, ease: "easeOut" }}
       />
 
-      <div className="relative z-10 flex flex-col gap-4 md:gap-6 items-center justify-center text-center px-6 md:px-12 lg:px-24">
+      <div className="relative z-10 flex flex-col gap-3 md:gap-6 items-center justify-center text-center px-6 md:px-12 lg:px-24">
         {/* Subheading / Tag */}
         <motion.p
           initial={{ opacity: 0, y: 20 }}
